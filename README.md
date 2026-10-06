@@ -12,4 +12,4 @@ Electrical Engineering student at the Universidad de Costa Rica, working mostly 
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,arduino,git,linux,latex,cmake" alt="Python, C, C++, MATLAB, Arduino, Git, Linux, LaTeX, CMake" />
 
-Verilog · RVfpga (RISC-V) · RISC-V and MIPS assembly · [LinkedIn](https://www.linkedin.com/in/luissantiagobrenesruiz)
+Verilog · RVfpga (RISC-V) · RISC-V and MIPS assembly
